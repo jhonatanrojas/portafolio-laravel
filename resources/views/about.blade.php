@@ -13,11 +13,11 @@ Sobre mi
 <h1 class="display-4 text-primary">Sobre mi</h1>
 <p class="text-secundary"> 
     <ul>
-        <li> A lo largo de mi estancia, participé en más de 8 proyectos digitales y colaboré con un equipo de diseñadores, copywriters creativos y project managers  .</li>
+        <li> He participado  participé en  proyectos digitales y colaborado con  equipos de diseñadores, copywriters creativos y project managers  .</li>
     </ul>
    
     <ul>
-        <li>     Como parte del equipo de programación, colaboré  en el desarrollo de aplicaciones web, entre lo que destacan 
+        <li>     Como parte del equipo de programación, he colaborado  en el desarrollo de aplicaciones web, entre lo que destacan 
             <a href="http://dora.ec/">Dora EC</a>, 
             <a href="https://www.practisis.net/page/">Practisis.net</a>
             sistemas de gestión de archivos
