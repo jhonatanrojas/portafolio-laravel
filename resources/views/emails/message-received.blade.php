@@ -8,5 +8,6 @@
 </head>
 <body>
 <p>recibiste un mensaje de  {{ $msg['email']}}</p>
+<p>Contenido {{ $msg['content']}}</p>
 </body>
 </html>

@@ -45,5 +45,5 @@ Route::delete("/proyectos/{proyect}","ProjectController@destroy")->name('project
 Route::post("/proyectos/crear","ProjectController@store")->name('project.store');*/
 
 
-Auth::routes(['register'=>true]);
+Auth::routes(['register'=>false]);
 

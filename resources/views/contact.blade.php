@@ -1,6 +1,6 @@
 @extends('layout')
 @section('title')
-Contact
+Contactame
 @endsection
 @section('content')
 <div class="container">

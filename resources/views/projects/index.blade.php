@@ -16,7 +16,7 @@ Proyectos
     
 
       @else
-      <h1 class="display-4 mb-0 ">Proyectos</h1>
+      <h1 class="display-4 mb-0 ">Portafolio</h1>
     @endisset
    
  
@@ -32,7 +32,7 @@ Proyectos
   </div>
  
   <p class="lead text-secondary">
-    Proyectos realizados Nulla deserunt laboris id quis excepteur labore ex do laboris est sint veniam amet.
+    Proyectos realizados 
   </p>
 
     <div class="d-flex flex-wrap justify-content-between align-items-start">
@@ -63,8 +63,7 @@ Proyectos
       @empty
     
       <li class="list-group-item border-0 mb-3 shadow-sm"> 
-
-          No hay proyectos para mostrar
+      En construcción
   </li>
     
     @endforelse

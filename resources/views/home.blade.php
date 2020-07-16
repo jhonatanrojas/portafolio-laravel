@@ -2,7 +2,7 @@
 
 @extends('layout')
 @section('title')
-Home
+Inicio
 @endsection
 @section('content')
 <div class="container">
@@ -14,9 +14,9 @@ Home
    
         <div class="col-12 col-lg-6">
 <h1 class="display-4 text-primary">Desarrollador Web</h1>
-<p class="text-secundary"> 
-    In nostrud ut sit proident esse incididunt laborum nisi amet.
-    Sint amet sit adipisicing aute cupidatat commodo sint eiusmod id dolor.
+<p class="text-secundary lead"> 
+    Programador Web con más de 4 años de experiencia generando código para empresas de ecuador,españa y venezuela del sector tecnólogico,
+     startup  y proyectos web personales. <br> <br>Especializado en el desarrollo con Laravel, Codeigniter, JavaScript, Vue, Mysql y Postgresql.
 </p>
            
 <a  class="btn btn-primary btn-block btn-lg" href="{{ route('contact')}}"> Contáctame</a> 

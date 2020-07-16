@@ -16,7 +16,7 @@
                 </li>
 
                 <li class=" nav-item">
-                    <a class="nav-link  {{ setActive('proyectos.*') }}" href="{{ Route('proyectos.index')}}">Proyectos</a></li>
+                    <a class="nav-link  {{ setActive('proyectos.*') }}" href="{{ Route('proyectos.index')}}">Portafolio</a></li>
                 <li class=" nav-item">
                     <a class="nav-link {{ setActive('contact') }}" href="{{ Route('contact')}}">@lang('Contact')</a></li>
                 @guest
